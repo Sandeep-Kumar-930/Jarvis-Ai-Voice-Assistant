@@ -1,0 +1,293 @@
+2025-04-17 01:03:40,858:INFO:Imported existing <module 'comtypes.gen' from 'C:\\Users\\sk521\\OneDrive\\Desktop\\JARVIS-AI2\\env\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-04-17 01:03:40,858:INFO:Using writeable comtypes cache directory: 'C:\Users\sk521\OneDrive\Desktop\JARVIS-AI2\env\Lib\site-packages\comtypes\gen'
+2025-04-17 01:03:41,208:INFO:Loading DialoGPT model.
+2025-04-17 01:03:55,886:INFO:DialoGPT model loaded.
+2025-04-17 01:03:56,933:INFO:Isabella: Isabella is now listening for the wake word...
+2025-04-17 01:06:06,437:INFO:Imported existing <module 'comtypes.gen' from 'C:\\Users\\sk521\\OneDrive\\Desktop\\JARVIS-AI2\\env\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-04-17 01:06:06,437:INFO:Using writeable comtypes cache directory: 'C:\Users\sk521\OneDrive\Desktop\JARVIS-AI2\env\Lib\site-packages\comtypes\gen'
+2025-04-17 01:06:06,678:INFO:Loading DialoGPT model.
+2025-04-17 01:06:13,483:INFO:DialoGPT model loaded.
+2025-04-17 01:06:14,297:INFO:Isabella: Isabella is now listening for the wake word...
+2025-04-17 01:06:21,957:INFO:Isabella: Hi Sir, how can I help you?
+2025-04-17 01:06:25,295:INFO:Isabella: Good Evening Sandeep
+2025-04-17 01:06:27,425:INFO:Isabella: I am Isabella. How can I help you today? For a list of commands, please say 'help'.
+2025-04-17 01:06:43,335:INFO:Isabella: Sorry, I did not understand that. Please say it again.
+2025-04-17 01:06:55,760:INFO:User said: help me
+2025-04-17 01:06:55,762:INFO:Isabella: Here are the commands you can use:
+2025-04-17 01:06:58,513:INFO:Isabella: time - Tell the current time.
+2025-04-17 01:07:01,457:INFO:Isabella: wikipedia - Search Wikipedia for a topic.
+2025-04-17 01:07:05,365:INFO:Isabella: youtube - Play a video on YouTube.
+2025-04-17 01:07:08,717:INFO:Isabella: google - Perform a Google search.
+2025-04-17 01:07:11,815:INFO:Isabella: weather - Get the weather for a specific city.
+2025-04-17 01:07:15,364:INFO:Isabella: joke - Tell a joke.
+2025-04-17 01:07:17,842:INFO:Isabella: notepad - Open Notepad.
+2025-04-17 01:07:20,721:INFO:Isabella: calculator - Open Calculator.
+2025-04-17 01:07:24,007:INFO:Isabella: ip address - Show your public IP address.
+2025-04-17 01:07:28,260:INFO:Isabella: generate sentence - Generate a sentence about a topic.
+2025-04-17 01:07:32,509:INFO:Isabella: chat - Talk with Isabella using the conversational model.
+2025-04-17 01:07:37,059:INFO:Isabella: set reminder - Set a reminder.
+2025-04-17 01:07:40,344:INFO:Isabella: shayari - Hear a random shayari with a link for more.
+2025-04-17 01:07:44,741:INFO:Isabella: open [software] - Open a software application (chrome, microsoft edge, etc.).
+2025-04-17 01:07:52,137:INFO:Isabella: close [software] - Close a software application.
+2025-04-17 01:07:56,281:INFO:Isabella: who is god - Answer a fun question.
+2025-04-17 01:07:59,718:INFO:Isabella: what is your name - Tell you my name.
+2025-04-17 01:08:02,955:INFO:Isabella: stop - Stop the program.
+2025-04-17 01:08:06,050:INFO:Isabella: help - Show this list of commands.
+2025-04-17 01:08:09,494:INFO:Isabella: exit - Exit the assistant.
+2025-04-17 01:08:16,342:INFO:User said: good evening sunday
+2025-04-17 01:08:19,825:INFO:Isabella: Good evening!
+2025-04-17 01:08:25,870:INFO:User said: what ise your name
+2025-04-17 01:08:28,905:INFO:Isabella: I'm not sure, but I think it's a reference to the movie The Big Lebowski.
+2025-04-17 01:08:37,843:INFO:User said: what is your name
+2025-04-17 01:08:37,843:INFO:Isabella: My name is Isabella, Your Artificial Intelligence
+2025-04-17 01:08:48,653:INFO:User said: ok thank
+2025-04-17 01:08:51,192:INFO:Isabella: I'm not sure if you're being serious or not, but I'm pretty sure that's a joke.
+2025-04-17 01:09:00,427:INFO:Isabella: Sorry, I did not understand that. Please say it again.
+2025-04-17 01:09:15,425:INFO:Isabella: Sorry, I did not understand that. Please say it again.
+2025-04-17 01:09:26,179:INFO:User said: hi sir how can i help you
+2025-04-17 01:09:26,179:INFO:Isabella: Here are the commands you can use:
+2025-04-17 01:09:28,962:INFO:Isabella: time - Tell the current time.
+2025-04-17 01:09:31,941:INFO:Isabella: wikipedia - Search Wikipedia for a topic.
+2025-04-17 01:09:35,881:INFO:Isabella: youtube - Play a video on YouTube.
+2025-04-17 01:09:39,268:INFO:Isabella: google - Perform a Google search.
+2025-04-17 01:09:42,350:INFO:Isabella: weather - Get the weather for a specific city.
+2025-04-17 01:09:45,892:INFO:Isabella: joke - Tell a joke.
+2025-04-17 01:09:48,369:INFO:Isabella: notepad - Open Notepad.
+2025-04-17 01:09:51,249:INFO:Isabella: calculator - Open Calculator.
+2025-04-17 01:09:54,546:INFO:Isabella: ip address - Show your public IP address.
+2025-04-17 01:09:59,151:INFO:Isabella: generate sentence - Generate a sentence about a topic.
+2025-04-17 01:10:03,469:INFO:Isabella: chat - Talk with Isabella using the conversational model.
+2025-04-17 01:10:08,036:INFO:Isabella: set reminder - Set a reminder.
+2025-04-17 01:10:11,336:INFO:Isabella: shayari - Hear a random shayari with a link for more.
+2025-04-17 01:10:15,749:INFO:Isabella: open [software] - Open a software application (chrome, microsoft edge, etc.).
+2025-04-17 01:10:23,146:INFO:Isabella: close [software] - Close a software application.
+2025-04-17 01:10:27,279:INFO:Isabella: who is god - Answer a fun question.
+2025-04-17 01:10:30,688:INFO:Isabella: what is your name - Tell you my name.
+2025-04-17 01:10:33,885:INFO:Isabella: stop - Stop the program.
+2025-04-17 01:10:36,935:INFO:Isabella: help - Show this list of commands.
+2025-04-17 01:10:40,391:INFO:Isabella: exit - Exit the assistant.
+2025-04-17 01:10:46,763:INFO:User said: set reminder
+2025-04-17 01:10:46,763:INFO:Isabella: What is your reminder?
+2025-04-17 01:10:54,340:INFO:Isabella: Sorry, I did not understand that. Please say it again.
+2025-04-17 01:10:59,823:INFO:Isabella: In how many seconds should I remind you?
+2025-04-17 01:11:09,016:INFO:User said: in after 15 minutes
+2025-04-17 01:11:09,016:INFO:Isabella: I did not understand the number. Please try again later.
+2025-04-17 01:11:16,980:INFO:Isabella: Sorry, I'm having network issues.
+2025-04-17 01:11:20,411:ERROR:Network error during speech recognition.
+2025-04-17 01:11:30,596:INFO:User said: after 15 minutes
+2025-04-17 01:11:35,992:INFO:Isabella: I'm at work, so I can't watch it.
+2025-04-17 01:11:47,046:INFO:User said: exit
+2025-04-17 01:11:47,046:INFO:Isabella: Goodbye Sandeep. Have a great day!
+2025-04-17 01:11:50,791:INFO:Exiting Isabella.
+2025-04-17 23:06:37,955:INFO:Imported existing <module 'comtypes.gen' from 'C:\\Users\\sk521\\OneDrive\\Desktop\\JARVIS-AI2\\env\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-04-17 23:06:37,955:INFO:Using writeable comtypes cache directory: 'C:\Users\sk521\OneDrive\Desktop\JARVIS-AI2\env\Lib\site-packages\comtypes\gen'
+2025-04-17 23:06:38,695:INFO:Loading DialoGPT model.
+2025-04-17 23:06:44,078:INFO:DialoGPT model loaded.
+2025-04-17 23:06:45,138:INFO:Isabella: Isabella is now listening for the wake word...
+2025-04-17 23:07:01,227:INFO:Isabella: Hi Sir, how can I help you?
+2025-04-17 23:07:04,903:INFO:Isabella: Good Evening Sandeep
+2025-04-17 23:07:07,448:INFO:Isabella: I am Isabella. How can I help you today? For a list of commands, please say 'help'.
+2025-04-17 23:07:22,116:INFO:User said: help me
+2025-04-17 23:07:22,117:INFO:Isabella: Here are the commands you can use:
+2025-04-17 23:07:25,449:INFO:Isabella: time - Tell the current time.
+2025-04-17 23:07:28,441:INFO:Isabella: wikipedia - Search Wikipedia for a topic.
+2025-04-17 23:07:32,410:INFO:Isabella: youtube - Play a video on YouTube.
+2025-04-17 23:07:35,815:INFO:Isabella: google - Perform a Google search.
+2025-04-17 23:07:38,987:INFO:Isabella: weather - Get the weather for a specific city.
+2025-04-17 23:07:43,016:INFO:Isabella: joke - Tell a joke.
+2025-04-17 23:07:46,009:INFO:Isabella: notepad - Open Notepad.
+2025-04-17 23:07:49,345:INFO:Isabella: calculator - Open Calculator.
+2025-04-17 23:07:53,025:INFO:Isabella: ip address - Show your public IP address.
+2025-04-17 23:07:57,712:INFO:Isabella: generate sentence - Generate a sentence about a topic.
+2025-04-17 23:08:02,360:INFO:Isabella: chat - Talk with Isabella using the conversational model.
+2025-04-17 23:08:07,252:INFO:Isabella: set reminder - Set a reminder.
+2025-04-17 23:08:10,958:INFO:Isabella: shayari - Hear a random shayari with a link for more.
+2025-04-17 23:08:15,731:INFO:Isabella: open [software] - Open a software application (chrome, microsoft edge, etc.).
+2025-04-17 23:08:23,391:INFO:Isabella: close [software] - Close a software application.
+2025-04-17 23:08:27,863:INFO:Isabella: who is god - Answer a fun question.
+2025-04-17 23:08:31,617:INFO:Isabella: what is your name - Tell you my name.
+2025-04-17 23:08:35,258:INFO:Isabella: stop - Stop the program.
+2025-04-17 23:08:38,844:INFO:Isabella: help - Show this list of commands.
+2025-04-17 23:08:42,705:INFO:Isabella: exit - Exit the assistant.
+2025-04-17 23:08:51,183:INFO:User said: what ise your name
+2025-04-17 23:08:59,715:INFO:Isabella: I'm not sure, but I think it's a reference to the movie The Big Lebowski.
+2025-04-17 23:09:09,651:INFO:User said: bhosdi ke what is
+2025-04-17 23:09:11,540:INFO:Isabella: I think it's a reference to the fact that he's a Muslim.
+2025-04-17 23:09:21,561:INFO:Isabella: Sorry, I did not understand that. Please say it again.
+2025-04-17 23:09:35,523:INFO:User said: who is god
+2025-04-17 23:09:35,523:INFO:Isabella: Ajitheyyy Kadavuleyy
+2025-04-17 23:09:41,904:INFO:User said: what is your name
+2025-04-17 23:09:41,907:INFO:Isabella: My name is Isabella, Your Artificial Intelligence
+2025-04-17 23:09:52,214:INFO:Isabella: Sorry, I did not understand that. Please say it again.
+2025-04-17 23:10:06,136:INFO:User said: chat talk with isabella
+2025-04-17 23:10:06,138:INFO:Isabella: Let's have a conversation. Tell me something.
+2025-04-17 23:10:17,086:INFO:User said: my mood is not good
+2025-04-17 23:10:17,086:INFO:Isabella: You said: my mood is not good. That's interesting!
+2025-04-17 23:10:31,122:INFO:Isabella: Sorry, I did not understand that. Please say it again.
+2025-04-17 23:10:40,440:INFO:User said: bhosdi wali
+2025-04-17 23:10:42,323:INFO:Isabella: I think he's a good player, but he's not a starter.
+2025-04-17 23:10:51,698:INFO:User said: good night
+2025-04-17 23:10:52,214:INFO:Isabella: Good night
+2025-04-17 23:11:01,526:INFO:User said: i don't we say good night
+2025-04-17 23:11:02,512:INFO:Isabella: I don't we say good night
+2025-04-17 23:11:13,542:INFO:User said: itna kam mujhe karta hai na
+2025-04-17 23:11:15,094:INFO:Isabella: I'm not sure if you're being serious or not.
+2025-04-17 23:11:22,424:INFO:Isabella: Sorry, I did not understand that. Please say it again.
+2025-04-17 23:11:32,359:INFO:User said: exit
+2025-04-17 23:11:32,360:INFO:Isabella: Goodbye Sandeep. Have a great day!
+2025-04-17 23:11:36,370:INFO:Exiting Isabella.
+2025-04-19 10:47:44,009:INFO:Imported existing <module 'comtypes.gen' from 'C:\\Users\\sk521\\OneDrive\\Desktop\\JARVIS-AI2\\env\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-04-19 10:47:44,009:INFO:Using writeable comtypes cache directory: 'C:\Users\sk521\OneDrive\Desktop\JARVIS-AI2\env\Lib\site-packages\comtypes\gen'
+2025-04-19 10:47:44,432:INFO:Loading DialoGPT model.
+2025-04-19 10:47:54,611:INFO:DialoGPT model loaded.
+2025-04-19 10:47:55,835:INFO:Isabella: Isabella is now listening for the wake word...
+2025-04-19 10:48:03,596:INFO:Isabella: Hi Sir, how can I help you?
+2025-04-19 10:48:07,097:INFO:Isabella: Good Morning Sandeep
+2025-04-19 10:48:09,534:INFO:Isabella: I am Isabella. How can I help you today? For a list of commands, please say 'help'.
+2025-04-19 10:48:21,522:INFO:Isabella: Sorry, I did not understand that. Please say it again.
+2025-04-19 10:48:34,632:INFO:Isabella: Sorry, I did not understand that. Please say it again.
+2025-04-19 10:48:50,816:INFO:User said: what ise your name
+2025-04-19 10:48:54,978:INFO:Isabella: I'm not sure, but I think it's a reference to the movie The Big Lebowski.
+2025-04-19 10:49:05,742:INFO:Isabella: Sorry, I did not understand that. Please say it again.
+2025-04-19 10:49:17,709:INFO:Isabella: Sorry, I did not understand that. Please say it again.
+2025-04-19 10:49:27,239:INFO:User said: vedar
+2025-04-19 10:49:29,012:INFO:Isabella: I'm not sure if you're serious, but I'm pretty sure that's a typo.
+2025-04-19 10:49:38,241:INFO:User said: today's weather
+2025-04-19 10:49:38,241:INFO:Isabella: Which city are you interested in?
+2025-04-19 10:49:46,958:INFO:Isabella: Sorry, I did not understand that. Please say it again.
+2025-04-19 20:54:34,218:INFO:Imported existing <module 'comtypes.gen' from 'C:\\Users\\sk521\\OneDrive\\Desktop\\JARVIS-AI2\\env\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-04-19 20:54:34,218:INFO:Using writeable comtypes cache directory: 'C:\Users\sk521\OneDrive\Desktop\JARVIS-AI2\env\Lib\site-packages\comtypes\gen'
+2025-04-19 20:54:34,850:INFO:Loading DialoGPT model.
+2025-04-19 20:54:43,252:INFO:DialoGPT model loaded.
+2025-04-19 20:54:44,739:INFO:Isabella: Isabella is now listening for the wake word...
+2025-04-19 20:55:06,376:INFO:Isabella: Hi Sir, how can I help you?
+2025-04-19 20:55:09,715:INFO:Isabella: Good Evening Sandeep
+2025-04-19 20:55:11,854:INFO:Isabella: I am Isabella. How can I help you today? For a list of commands, please say 'help'.
+2025-04-19 20:55:24,121:INFO:Isabella: Sorry, I did not understand that. Please say it again.
+2025-04-19 20:55:35,280:INFO:Isabella: Sorry, I did not understand that. Please say it again.
+2025-04-19 20:55:49,196:INFO:Isabella: Sorry, I did not understand that. Please say it again.
+2025-04-19 20:56:02,110:INFO:User said: bathroom english easy
+2025-04-19 20:56:07,012:INFO:Isabella: I'm not sure if you're being serious or not, but I'm pretty sure that's not a bathroom.
+2025-04-19 20:56:17,048:INFO:Isabella: Sorry, I did not understand that. Please say it again.
+2025-04-19 21:19:04,309:INFO:Isabella: Sorry, I did not understand that. Please say it again.
+2025-04-19 21:19:33,848:INFO:User said: mera baap ka
+2025-04-19 21:19:40,817:INFO:Isabella: I'm not sure if you're being serious or not.
+2025-04-19 21:19:50,764:INFO:User said: please samajhna hai exit
+2025-04-19 21:19:50,771:INFO:Isabella: Goodbye Sandeep. Have a great day!
+2025-04-19 21:19:54,466:INFO:Exiting Isabella.
+2025-04-19 21:20:20,385:INFO:Imported existing <module 'comtypes.gen' from 'C:\\Users\\sk521\\OneDrive\\Desktop\\JARVIS-AI2\\env\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-04-19 21:20:20,385:INFO:Using writeable comtypes cache directory: 'C:\Users\sk521\OneDrive\Desktop\JARVIS-AI2\env\Lib\site-packages\comtypes\gen'
+2025-04-19 21:20:20,681:INFO:Loading DialoGPT model.
+2025-04-19 21:20:29,089:INFO:DialoGPT model loaded.
+2025-04-19 21:20:30,322:INFO:Isabella: Isabella is now listening for the wake word...
+2025-04-19 21:21:05,431:INFO:Isabella: Hi Sir, how can I help you?
+2025-04-19 21:21:08,852:INFO:Isabella: Good Evening Sandeep
+2025-04-19 21:21:11,078:INFO:Isabella: I am Isabella. How can I help you today? For a list of commands, please say 'help'.
+2025-04-19 21:21:23,513:INFO:User said: set me reminder
+2025-04-19 21:21:38,812:INFO:Isabella: I'm sorry, I'm not sure what you mean by set me reminder.
+2025-04-19 21:21:48,818:INFO:Isabella: Sorry, I did not understand that. Please say it again.
+2025-04-19 21:22:01,210:INFO:Isabella: Sorry, I did not understand that. Please say it again.
+2025-04-19 21:22:13,800:INFO:User said: exit badi
+2025-04-19 21:22:13,802:INFO:Isabella: Goodbye Sandeep. Have a great day!
+2025-04-19 21:22:17,468:INFO:Exiting Isabella.
+2025-04-20 13:49:41,463:INFO:Imported existing <module 'comtypes.gen' from 'C:\\Users\\sk521\\OneDrive\\Desktop\\JARVIS-AI2\\env\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-04-20 13:49:41,463:INFO:Using writeable comtypes cache directory: 'C:\Users\sk521\OneDrive\Desktop\JARVIS-AI2\env\Lib\site-packages\comtypes\gen'
+2025-04-20 13:49:41,893:INFO:Loading DialoGPT model.
+2025-04-20 13:49:50,060:INFO:DialoGPT model loaded.
+2025-04-20 13:49:51,310:INFO:Isabella: Isabella is now listening for the wake word...
+2025-04-20 13:50:12,686:INFO:Isabella: Hi Sir, how can I help you?
+2025-04-20 13:50:16,388:INFO:Isabella: Good Afternoon Sandeep
+2025-04-20 13:50:19,219:INFO:Isabella: I am Isabella. How can I help you today? For a list of commands, please say 'help'.
+2025-04-20 13:50:32,341:INFO:User said: tell me one jokes
+2025-04-20 13:50:33,500:INFO:Isabella: Why are basketball players messy eaters? Because they are always dribbling.
+2025-04-20 13:50:43,695:INFO:Isabella: Sorry, I did not understand that. Please say it again.
+2025-04-20 13:50:58,750:INFO:User said: tell me today's weather
+2025-04-20 13:50:58,750:INFO:Isabella: Which city are you interested in?
+2025-04-20 13:51:06,126:INFO:User said: asansol
+2025-04-20 13:51:06,347:INFO:Isabella: In asansol, the temperature is 39.76°C, but it feels like 40.69°C with clear sky.
+2025-04-20 13:51:20,175:INFO:User said: what is your name
+2025-04-20 13:51:20,175:INFO:Isabella: My name is Isabella, Your Artificial Intelligence
+2025-04-20 13:51:29,069:INFO:User said: open the google
+2025-04-20 13:51:29,069:INFO:Isabella: What should I search on Google?
+2025-04-20 13:51:36,499:INFO:User said: chat gpt
+2025-04-20 13:51:36,499:INFO:Isabella: Searching Google for chat gpt
+2025-04-20 13:51:49,344:INFO:User said: kuchh karna hai
+2025-04-20 13:52:00,951:INFO:Isabella: I'm not sure if you're being serious or not.
+2025-04-20 13:52:16,984:INFO:User said: exit badi
+2025-04-20 13:52:16,984:INFO:Isabella: Goodbye Sandeep. Have a great day!
+2025-04-20 13:52:20,981:INFO:Exiting Isabella.
+2025-06-03 23:31:01,336:INFO:Imported existing <module 'comtypes.gen' from 'C:\\Users\\sk521\\OneDrive\\Desktop\\JARVIS-AI2\\env\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-06-03 23:31:01,351:INFO:Using writeable comtypes cache directory: 'C:\Users\sk521\OneDrive\Desktop\JARVIS-AI2\env\Lib\site-packages\comtypes\gen'
+2025-06-03 23:31:01,754:INFO:Loading DialoGPT model.
+2025-06-03 23:31:10,684:INFO:DialoGPT model loaded.
+2025-06-03 23:31:12,082:INFO:Isabella: Isabella is now listening for the wake word...
+2025-06-03 23:35:18,979:INFO:Imported existing <module 'comtypes.gen' from 'C:\\Users\\sk521\\OneDrive\\Desktop\\JARVIS-AI2\\env\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-06-03 23:35:18,979:INFO:Using writeable comtypes cache directory: 'C:\Users\sk521\OneDrive\Desktop\JARVIS-AI2\env\Lib\site-packages\comtypes\gen'
+2025-06-03 23:35:19,230:INFO:Loading DialoGPT model.
+2025-06-03 23:35:24,516:INFO:DialoGPT model loaded.
+2025-06-03 23:35:25,193:INFO:Isabella: Isabella is now listening for the wake word...
+2025-06-03 23:36:31,437:INFO:Isabella: Hi Sir, how can I help you?
+2025-06-03 23:36:34,933:INFO:Isabella: Good Evening Sandeep
+2025-06-03 23:36:37,314:INFO:Isabella: I am Isabella. How can I help you today? For a list of commands, please say 'help'.
+2025-06-03 23:36:52,624:INFO:User said: help
+2025-06-03 23:36:52,624:INFO:Isabella: Here are the commands you can use:
+2025-06-03 23:36:55,629:INFO:Isabella: time - Tell the current time.
+2025-06-03 23:36:58,871:INFO:Isabella: wikipedia - Search Wikipedia for a topic.
+2025-06-03 23:37:03,023:INFO:Isabella: youtube - Play a video on YouTube.
+2025-06-03 23:37:06,622:INFO:Isabella: google - Perform a Google search.
+2025-06-03 23:37:09,958:INFO:Isabella: weather - Get the weather for a specific city.
+2025-06-03 23:37:13,809:INFO:Isabella: joke - Tell a joke.
+2025-06-03 23:37:16,595:INFO:Isabella: notepad - Open Notepad.
+2025-06-03 23:37:19,734:INFO:Isabella: calculator - Open Calculator.
+2025-06-03 23:37:23,288:INFO:Isabella: ip address - Show your public IP address.
+2025-06-03 23:37:27,848:INFO:Isabella: generate sentence - Generate a sentence about a topic.
+2025-06-03 23:37:32,415:INFO:Isabella: chat - Talk with Isabella using the conversational model.
+2025-06-03 23:37:37,226:INFO:Isabella: set reminder - Set a reminder.
+2025-06-03 23:37:40,759:INFO:Isabella: shayari - Hear a random shayari with a link for more.
+2025-06-03 23:37:45,417:INFO:Isabella: open [software] - Open a software application (chrome, microsoft edge, etc.).
+2025-06-03 23:37:53,069:INFO:Isabella: close [software] - Close a software application.
+2025-06-03 23:37:57,479:INFO:Isabella: who is god - Answer a fun question.
+2025-06-03 23:38:01,178:INFO:Isabella: what is your name - Tell you my name.
+2025-06-03 23:38:04,682:INFO:Isabella: stop - Stop the program.
+2025-06-03 23:38:08,025:INFO:Isabella: help - Show this list of commands.
+2025-06-03 23:38:11,722:INFO:Isabella: exit - Exit the assistant.
+2025-06-03 23:38:26,689:INFO:User said: open calculator
+2025-06-03 23:38:26,689:INFO:Isabella: Opening Calculator.
+2025-06-03 23:38:36,446:INFO:User said: tell me today's weather
+2025-06-03 23:38:36,446:INFO:Isabella: Which city are you interested in?
+2025-06-03 23:38:49,889:INFO:Isabella: Sorry, I did not understand that. Please say it again.
+2025-06-03 23:39:09,977:INFO:Imported existing <module 'comtypes.gen' from 'C:\\Users\\sk521\\OneDrive\\Desktop\\JARVIS-AI2\\env\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-06-03 23:39:09,977:INFO:Using writeable comtypes cache directory: 'C:\Users\sk521\OneDrive\Desktop\JARVIS-AI2\env\Lib\site-packages\comtypes\gen'
+2025-06-03 23:39:10,180:INFO:Loading DialoGPT model.
+2025-06-03 23:39:13,742:INFO:DialoGPT model loaded.
+2025-06-03 23:39:14,218:INFO:Isabella: Isabella is now listening for the wake word...
+2025-06-03 23:40:19,727:INFO:Isabella: Hi Sir, how can I help you?
+2025-06-03 23:40:23,441:INFO:Isabella: Good Evening Sandeep
+2025-06-03 23:40:25,878:INFO:Isabella: I am Isabella. How can I help you today? For a list of commands, please say 'help'.
+2025-06-03 23:40:42,030:INFO:User said: open calculator
+2025-06-03 23:40:42,030:INFO:Isabella: Opening Calculator.
+2025-06-03 23:40:49,164:INFO:User said: three
+2025-06-03 23:40:50,121:INFO:Isabella: Four
+2025-06-03 23:40:56,436:INFO:User said: 5 + 5
+2025-06-03 23:40:56,699:INFO:Isabella: 5
+2025-06-03 23:41:03,172:INFO:User said: 6 - 1
+2025-06-03 23:41:03,480:INFO:Isabella: 6 7
+2025-06-03 23:41:09,235:INFO:User said: y67
+2025-06-03 23:41:10,353:INFO:Isabella: I'm not sure what you're trying to say.
+2025-06-03 23:41:17,066:INFO:User said: tell me today's weather
+2025-06-03 23:41:17,066:INFO:Isabella: Which city are you interested in?
+2025-06-03 23:41:31,274:INFO:User said: asansol
+2025-06-03 23:41:31,472:INFO:Isabella: In asansol, the temperature is 32.24°C, but it feels like 33.64°C with overcast clouds.
+2025-06-03 23:41:47,973:INFO:User said: this not be correct tell me correct
+2025-06-03 23:41:48,524:INFO:Isabella: It's not correct.
+2025-06-03 23:41:57,852:INFO:Isabella: Sorry, I did not understand that. Please say it again.
+2025-06-03 23:42:06,852:INFO:User said: bye-bye
+2025-06-03 23:42:07,974:INFO:Isabella: I'm not sure if you're being serious or not.
+2025-06-03 23:42:24,229:INFO:User said: exit
+2025-06-03 23:42:24,229:INFO:Isabella: Goodbye Sandeep. Have a great day!
+2025-06-03 23:42:28,151:INFO:Exiting Isabella.
+2025-06-21 12:26:29,364:INFO:Imported existing <module 'comtypes.gen' from 'C:\\Users\\sk521\\OneDrive\\Desktop\\JARVIS-AI2\\env\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-06-21 12:26:29,364:INFO:Using writeable comtypes cache directory: 'C:\Users\sk521\OneDrive\Desktop\JARVIS-AI2\env\Lib\site-packages\comtypes\gen'
+2025-06-21 12:26:30,341:INFO:Loading DialoGPT model.
+2025-06-21 12:26:39,484:INFO:DialoGPT model loaded.
+2025-06-21 12:26:40,951:INFO:Isabella: Isabella is now listening for the wake word...

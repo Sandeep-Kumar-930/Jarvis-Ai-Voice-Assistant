@@ -1,0 +1,208 @@
+2025-04-13 02:37:38,314:INFO:Imported existing <module 'comtypes.gen' from 'C:\\Users\\sk521\\OneDrive\\Desktop\\JARVIS-AI2\\env\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-04-13 02:37:38,314:INFO:Using writeable comtypes cache directory: 'C:\Users\sk521\OneDrive\Desktop\JARVIS-AI2\env\Lib\site-packages\comtypes\gen'
+2025-04-13 02:37:38,562:INFO:Loading DialoGPT model.
+2025-04-13 02:37:42,894:INFO:DialoGPT model loaded.
+2025-04-13 02:37:44,383:INFO:Jarvis: Jarvis is now listening for the wake word...
+2025-04-13 02:39:26,684:INFO:Jarvis: Hi Sir, how can I help you?
+2025-04-13 02:39:30,311:INFO:Jarvis: Good Evening Sandeep
+2025-04-13 02:39:32,693:INFO:Jarvis: I am Jarvis. How can I help you today? For a list of commands, please say 'help'.
+2025-04-13 02:39:44,942:INFO:User said: my password for you
+2025-04-13 02:39:58,527:INFO:Jarvis: I'm not sure if you're serious or not, but I'm going to assume you're serious.
+2025-04-13 02:40:09,376:INFO:User said: sometimes tell me one shayari
+2025-04-13 02:40:09,376:INFO:Jarvis: The time is 02:40
+2025-04-13 02:40:18,280:INFO:User said: tell one shayari
+2025-04-13 02:40:19,209:INFO:Jarvis: Here's a shayari: Sorry, no shayari found at the moment. - Megory Anderson. For more shayari, please visit https://thequoteshub.com/
+2025-04-13 02:40:39,913:INFO:User said: tell me today's weather
+2025-04-13 02:40:39,913:INFO:Jarvis: Which city are you interested in?
+2025-04-13 02:40:49,502:INFO:User said: asansol
+2025-04-13 02:40:49,726:INFO:Jarvis: In asansol, the temperature is 27.85°C, but it feels like 30.13°C with broken clouds.
+2025-04-13 02:41:04,009:INFO:User said: excited
+2025-04-13 02:41:04,840:INFO:Jarvis: I'm excited for the next episode!
+2025-04-13 02:41:13,114:INFO:User said: bye buddy close it
+2025-04-13 02:41:13,114:INFO:Jarvis: I couldn't find any open software named bye buddy close it
+2025-04-13 02:41:22,032:INFO:User said: exit
+2025-04-13 02:41:22,032:INFO:Jarvis: Goodbye Sandeep. Have a great day!
+2025-04-13 02:41:25,936:INFO:Exiting Jarvis.
+2025-04-13 02:53:45,293:INFO:Imported existing <module 'comtypes.gen' from 'C:\\Users\\sk521\\OneDrive\\Desktop\\JARVIS-AI2\\env\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-04-13 02:53:45,293:INFO:Using writeable comtypes cache directory: 'C:\Users\sk521\OneDrive\Desktop\JARVIS-AI2\env\Lib\site-packages\comtypes\gen'
+2025-04-13 02:53:45,474:INFO:Loading DialoGPT model.
+2025-04-13 02:53:51,987:INFO:DialoGPT model loaded.
+2025-04-13 02:53:53,045:INFO:Jarvis: Jarvis is now listening for the wake word...
+2025-04-13 02:54:09,669:INFO:Jarvis: Hi Sir, how can I help you?
+2025-04-13 02:54:13,167:INFO:Jarvis: Good Evening Sandeep
+2025-04-13 02:54:15,551:INFO:Jarvis: I am Jarvis. How can I help you today? For a list of commands, please say 'help'.
+2025-04-13 02:54:29,434:INFO:User said: tell me one shayari
+2025-04-13 02:55:03,321:INFO:Jarvis: Here's a shayari: Sorry, no shayari found at the moment. - Unknown
+2025-04-13 02:55:15,530:INFO:User said: tell me any random
+2025-04-13 02:55:17,888:INFO:Jarvis: I'm not sure what you mean by random.
+2025-04-13 02:55:26,066:INFO:User said: one random shayari
+2025-04-13 02:55:27,677:INFO:Jarvis: Here's a shayari: Sorry, no shayari found at the moment. - Unknown
+2025-04-13 02:55:42,443:INFO:User said: exit
+2025-04-13 02:55:42,443:INFO:Jarvis: Goodbye Sandeep. Have a great day!
+2025-04-13 02:55:46,382:INFO:Exiting Jarvis.
+2025-04-13 02:58:45,143:INFO:Imported existing <module 'comtypes.gen' from 'C:\\Users\\sk521\\OneDrive\\Desktop\\JARVIS-AI2\\env\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-04-13 02:58:45,143:INFO:Using writeable comtypes cache directory: 'C:\Users\sk521\OneDrive\Desktop\JARVIS-AI2\env\Lib\site-packages\comtypes\gen'
+2025-04-13 02:58:45,342:INFO:Loading DialoGPT model.
+2025-04-13 02:58:54,599:INFO:DialoGPT model loaded.
+2025-04-13 02:58:56,141:INFO:Jarvis: Jarvis is now listening for the wake word...
+2025-04-13 02:59:43,742:INFO:Jarvis: Hi Sir, how can I help you?
+2025-04-13 02:59:47,329:INFO:Jarvis: Good Evening Sandeep
+2025-04-13 02:59:49,714:INFO:Jarvis: I am Jarvis. How can I help you today? For a list of commands, please say 'help'.
+2025-04-13 03:00:01,519:INFO:Jarvis: Sorry, I did not understand that. Please say it again.
+2025-04-13 03:00:15,433:INFO:User said: tell me one shayari
+2025-04-13 03:00:21,705:INFO:Jarvis: Sorry, no shayari found at the moment.
+2025-04-13 03:00:31,382:INFO:Jarvis: Sorry, I did not understand that. Please say it again.
+2025-04-13 03:00:40,688:INFO:User said: shayari and tell
+2025-04-13 03:00:40,932:INFO:Jarvis: Sorry, no shayari found at the moment.
+2025-04-13 03:00:53,421:INFO:Jarvis: Sorry, I did not understand that. Please say it again.
+2025-04-13 03:01:02,364:INFO:User said: founded
+2025-04-13 03:01:06,019:INFO:Jarvis: I'm not sure if I should be proud or ashamed that I got that reference.
+2025-04-13 03:01:16,593:INFO:User said: tell me your ip
+2025-04-13 03:01:17,592:INFO:Jarvis: I'm not sure what you mean by that.
+2025-04-13 03:01:24,137:INFO:User said: your names
+2025-04-13 03:01:25,093:INFO:Jarvis: I'm not sure what you mean by that.
+2025-04-13 03:01:31,602:INFO:User said: tell me your ip
+2025-04-13 03:01:32,541:INFO:Jarvis: I'm not sure what you mean by that.
+2025-04-13 03:01:41,372:INFO:User said: tell me today's weather
+2025-04-13 03:01:41,372:INFO:Jarvis: Which city are you interested in?
+2025-04-13 03:01:48,544:INFO:User said: jarvis
+2025-04-13 03:01:48,745:INFO:Jarvis: In jarvis, the temperature is 8.05°C, but it feels like 8.05°C with overcast clouds.
+2025-04-13 03:02:33,742:INFO:User said: tell me one jokes
+2025-04-13 03:02:34,544:INFO:Jarvis: Egyptians claimed to invent the guitar, but they were such lyres.\ufeff
+2025-04-13 03:02:46,024:INFO:User said: exit
+2025-04-13 03:02:46,026:INFO:Jarvis: Goodbye Sandeep. Have a great day!
+2025-04-13 03:02:49,967:INFO:Exiting Jarvis.
+2025-04-13 03:18:46,357:INFO:Imported existing <module 'comtypes.gen' from 'C:\\Users\\sk521\\OneDrive\\Desktop\\JARVIS-AI2\\env\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-04-13 03:18:46,357:INFO:Using writeable comtypes cache directory: 'C:\Users\sk521\OneDrive\Desktop\JARVIS-AI2\env\Lib\site-packages\comtypes\gen'
+2025-04-13 03:18:46,560:INFO:Loading DialoGPT model.
+2025-04-13 03:18:52,436:INFO:DialoGPT model loaded.
+2025-04-13 03:18:53,487:INFO:Jarvis: Jarvis is now listening for the wake word...
+2025-04-13 03:21:38,346:INFO:Imported existing <module 'comtypes.gen' from 'C:\\Users\\sk521\\OneDrive\\Desktop\\JARVIS-AI2\\env\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-04-13 03:21:38,346:INFO:Using writeable comtypes cache directory: 'C:\Users\sk521\OneDrive\Desktop\JARVIS-AI2\env\Lib\site-packages\comtypes\gen'
+2025-04-13 03:21:38,507:INFO:Loading DialoGPT model.
+2025-04-13 03:21:43,050:INFO:DialoGPT model loaded.
+2025-04-13 03:21:43,551:INFO:Jarvis: Jarvis is now listening for the wake word...
+2025-04-13 03:23:01,780:INFO:Imported existing <module 'comtypes.gen' from 'C:\\Users\\sk521\\OneDrive\\Desktop\\JARVIS-AI2\\env\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-04-13 03:23:01,780:INFO:Using writeable comtypes cache directory: 'C:\Users\sk521\OneDrive\Desktop\JARVIS-AI2\env\Lib\site-packages\comtypes\gen'
+2025-04-13 03:23:01,900:INFO:Loading DialoGPT model.
+2025-04-13 03:23:07,507:INFO:DialoGPT model loaded.
+2025-04-13 03:23:07,985:INFO:Jarvis: Jarvis is now listening for the wake word...
+2025-04-13 03:23:21,016:INFO:Jarvis: Hi Sir, how can I help you?
+2025-04-13 03:23:24,670:INFO:Jarvis: Good Evening Sandeep
+2025-04-13 03:23:27,053:INFO:Jarvis: I am Jarvis. How can I help you today? For a list of commands, please say 'help'.
+2025-04-13 03:23:41,104:INFO:Jarvis: Sorry, I did not understand that. Please say it again.
+2025-04-13 03:23:49,955:INFO:User said: exit
+2025-04-13 03:23:49,955:INFO:Jarvis: Goodbye Sandeep. Have a great day!
+2025-04-13 03:23:53,848:INFO:Exiting Jarvis.
+2025-04-13 12:48:18,101:INFO:Imported existing <module 'comtypes.gen' from 'C:\\Users\\sk521\\OneDrive\\Desktop\\JARVIS-AI2\\env\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-04-13 12:48:18,101:INFO:Using writeable comtypes cache directory: 'C:\Users\sk521\OneDrive\Desktop\JARVIS-AI2\env\Lib\site-packages\comtypes\gen'
+2025-04-13 12:48:18,771:INFO:Loading DialoGPT model.
+2025-04-13 12:48:25,956:INFO:DialoGPT model loaded.
+2025-04-13 12:48:27,001:INFO:Jarvis: Jarvis is now listening for the wake word...
+2025-04-13 12:49:45,159:INFO:Jarvis: Hi Sir, how can I help you?
+2025-04-13 12:49:48,492:INFO:Jarvis: Good Afternoon Sandeep
+2025-04-13 12:49:50,835:INFO:Jarvis: I am Jarvis. How can I help you today? For a list of commands, please say 'help'.
+2025-04-13 12:50:04,976:INFO:User said: opening google
+2025-04-13 12:50:04,976:INFO:Jarvis: What should I search on Google?
+2025-04-13 12:50:12,287:INFO:User said: how to change the ip
+2025-04-13 12:50:12,287:INFO:Jarvis: Searching Google for how to change the ip
+2025-04-13 12:50:28,845:INFO:Jarvis: Sorry, I did not understand that. Please say it again.
+2025-04-13 12:50:42,299:INFO:User said: exide battery
+2025-04-13 12:50:46,078:INFO:Jarvis: I'm not sure what you mean by that.
+2025-04-13 12:50:59,259:INFO:User said: exit ex
+2025-04-13 12:50:59,259:INFO:Jarvis: Goodbye Sandeep. Have a great day!
+2025-04-13 12:51:02,916:INFO:Exiting Jarvis.
+2025-04-17 00:29:51,236:INFO:Imported existing <module 'comtypes.gen' from 'C:\\Users\\sk521\\OneDrive\\Desktop\\JARVIS-AI2\\env\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-04-17 00:29:51,237:INFO:Using writeable comtypes cache directory: 'C:\Users\sk521\OneDrive\Desktop\JARVIS-AI2\env\Lib\site-packages\comtypes\gen'
+2025-04-17 00:29:51,794:INFO:Loading DialoGPT model.
+2025-04-17 00:30:02,702:INFO:DialoGPT model loaded.
+2025-04-17 00:30:04,426:INFO:Jarvis: Jarvis is now listening for the wake word...
+2025-04-17 00:30:52,376:INFO:Jarvis: Hi Sir, how can I help you?
+2025-04-17 00:30:56,420:INFO:Jarvis: Good Evening Sandeep
+2025-04-17 00:30:58,623:INFO:Jarvis: I am Jarvis. How can I help you today? For a list of commands, please say 'help'.
+2025-04-17 00:31:10,098:INFO:User said: help bud
+2025-04-17 00:31:10,098:INFO:Jarvis: Here are the commands you can use:
+2025-04-17 00:31:12,899:INFO:Jarvis: time - Tell the current time.
+2025-04-17 00:31:15,990:INFO:Jarvis: wikipedia - Search Wikipedia for a topic.
+2025-04-17 00:31:19,898:INFO:Jarvis: youtube - Play a video on YouTube.
+2025-04-17 00:31:23,351:INFO:Jarvis: google - Perform a Google search.
+2025-04-17 00:31:26,596:INFO:Jarvis: weather - Get the weather for a specific city.
+2025-04-17 00:31:30,251:INFO:Jarvis: joke - Tell a joke.
+2025-04-17 00:31:32,839:INFO:Jarvis: notepad - Open Notepad.
+2025-04-17 00:31:35,832:INFO:Jarvis: calculator - Open Calculator.
+2025-04-17 00:31:39,135:INFO:Jarvis: ip address - Show your public IP address.
+2025-04-17 00:31:43,444:INFO:Jarvis: generate sentence - Generate a sentence about a topic.
+2025-04-17 00:31:47,763:INFO:Jarvis: chat - Talk with Jarvis using the conversational model.
+2025-04-17 00:31:52,292:INFO:Jarvis: set reminder - Set a reminder.
+2025-04-17 00:31:55,441:INFO:Jarvis: shayari - Hear a random shayari with a link for more.
+2025-04-17 00:31:59,768:INFO:Jarvis: open [software] - Open a software application (chrome, microsoft edge, etc.).
+2025-04-17 00:32:07,227:INFO:Jarvis: close [software] - Close a software application.
+2025-04-17 00:32:11,390:INFO:Jarvis: who is god - Answer a fun question.
+2025-04-17 00:32:14,827:INFO:Jarvis: what is your name - Tell you my name.
+2025-04-17 00:32:18,114:INFO:Jarvis: stop - Stop the program.
+2025-04-17 00:32:21,197:INFO:Jarvis: help - Show this list of commands.
+2025-04-17 00:32:24,632:INFO:Jarvis: exit - Exit the assistant.
+2025-04-17 00:32:32,687:INFO:User said: who is god
+2025-04-17 00:32:32,687:INFO:Jarvis: Ajitheyyy Kadavuleyy
+2025-04-17 00:32:43,317:INFO:User said: but change it its name
+2025-04-17 00:32:50,098:INFO:Jarvis: I'm not sure what you mean by that.
+2025-04-17 00:33:00,837:INFO:Jarvis: Sorry, I did not understand that. Please say it again.
+2025-04-17 00:33:09,015:INFO:Jarvis: Sorry, I did not understand that. Please say it again.
+2025-04-17 00:33:18,165:INFO:Jarvis: Sorry, I did not understand that. Please say it again.
+2025-04-17 00:33:26,744:INFO:Jarvis: Sorry, I did not understand that. Please say it again.
+2025-04-17 00:33:40,343:INFO:User said: exit
+2025-04-17 00:33:40,343:INFO:Jarvis: Goodbye Sandeep. Have a great day!
+2025-04-17 00:33:44,051:INFO:Exiting Jarvis.
+2025-04-17 00:43:28,610:INFO:Imported existing <module 'comtypes.gen' from 'C:\\Users\\sk521\\OneDrive\\Desktop\\JARVIS-AI2\\env\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-04-17 00:43:28,610:INFO:Using writeable comtypes cache directory: 'C:\Users\sk521\OneDrive\Desktop\JARVIS-AI2\env\Lib\site-packages\comtypes\gen'
+2025-04-17 00:43:29,032:INFO:Loading DialoGPT model.
+2025-04-17 00:43:39,425:INFO:DialoGPT model loaded.
+2025-04-17 00:43:41,085:INFO:Jarvis: Jarvis is now listening for the wake word...
+2025-04-17 00:44:01,081:INFO:Jarvis: Hi Sir, how can I help you?
+2025-04-17 00:44:04,959:INFO:Jarvis: Good Evening Sandeep
+2025-04-17 00:44:07,140:INFO:Jarvis: I am Jarvis. How can I help you today? For a list of commands, please say 'help'.
+2025-04-17 00:44:18,426:INFO:Jarvis: Sorry, I did not understand that. Please say it again.
+2025-04-17 00:44:28,254:INFO:Jarvis: Sorry, I did not understand that. Please say it again.
+2025-04-17 00:44:43,645:INFO:User said: exit
+2025-04-17 00:44:43,645:INFO:Jarvis: Goodbye Sandeep. Have a great day!
+2025-04-17 00:44:47,348:INFO:Exiting Jarvis.
+2025-04-17 00:52:05,528:INFO:Imported existing <module 'comtypes.gen' from 'C:\\Users\\sk521\\OneDrive\\Desktop\\JARVIS-AI2\\env\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-04-17 00:52:05,528:INFO:Using writeable comtypes cache directory: 'C:\Users\sk521\OneDrive\Desktop\JARVIS-AI2\env\Lib\site-packages\comtypes\gen'
+2025-04-17 00:52:05,831:INFO:Loading DialoGPT model.
+2025-04-17 00:52:15,580:INFO:DialoGPT model loaded.
+2025-04-17 00:52:16,715:INFO:Jarvis: Jarvis is now listening for the wake word...
+2025-04-17 00:52:24,844:INFO:Jarvis: Hi Sir, how can I help you?
+2025-04-17 00:52:34,723:INFO:Jarvis: Good Evening Sandeep
+2025-04-17 00:52:36,914:INFO:Jarvis: I am Jarvis. How can I help you today? For a list of commands, please say 'help'.
+2025-04-17 00:52:51,743:INFO:Jarvis: Sorry, I did not understand that. Please say it again.
+2025-04-17 00:53:03,152:INFO:User said: help me
+2025-04-17 00:53:03,152:INFO:Jarvis: Here are the commands you can use:
+2025-04-17 00:53:05,942:INFO:Jarvis: time - Tell the current time.
+2025-04-17 00:53:08,931:INFO:Jarvis: wikipedia - Search Wikipedia for a topic.
+2025-04-17 00:53:12,888:INFO:Jarvis: youtube - Play a video on YouTube.
+2025-04-17 00:53:16,299:INFO:Jarvis: google - Perform a Google search.
+2025-04-17 00:53:19,399:INFO:Jarvis: weather - Get the weather for a specific city.
+2025-04-17 00:53:22,985:INFO:Jarvis: joke - Tell a joke.
+2025-04-17 00:53:25,522:INFO:Jarvis: notepad - Open Notepad.
+2025-04-17 00:53:28,411:INFO:Jarvis: calculator - Open Calculator.
+2025-04-17 00:53:31,722:INFO:Jarvis: ip address - Show your public IP address.
+2025-04-17 00:53:35,987:INFO:Jarvis: generate sentence - Generate a sentence about a topic.
+2025-04-17 00:53:40,255:INFO:Jarvis: chat - Talk with Jarvis using the conversational model.
+2025-04-17 00:53:44,717:INFO:Jarvis: set reminder - Set a reminder.
+2025-04-17 00:53:47,968:INFO:Jarvis: shayari - Hear a random shayari with a link for more.
+2025-04-17 00:53:52,376:INFO:Jarvis: open [software] - Open a software application (chrome, microsoft edge, etc.).
+2025-04-17 00:53:59,754:INFO:Jarvis: close [software] - Close a software application.
+2025-04-17 00:54:03,920:INFO:Jarvis: who is god - Answer a fun question.
+2025-04-17 00:54:07,376:INFO:Jarvis: what is your name - Tell you my name.
+2025-04-17 00:54:10,671:INFO:Jarvis: stop - Stop the program.
+2025-04-17 00:54:13,754:INFO:Jarvis: help - Show this list of commands.
+2025-04-17 00:54:17,192:INFO:Jarvis: exit - Exit the assistant.
+2025-04-17 00:54:26,711:INFO:User said: who is god
+2025-04-17 00:54:26,711:INFO:Jarvis: Radhe Krishna
+2025-04-17 00:54:34,171:INFO:User said: what is your name
+2025-04-17 00:54:34,171:INFO:Jarvis: My name is Jarvis, Your Artificial Intelligence
+2025-04-17 00:54:44,117:INFO:User said: thank you buddy
+2025-04-17 00:54:50,137:INFO:Jarvis: No problem, I'm glad to help.
+2025-04-17 00:54:57,349:INFO:User said: exit
+2025-04-17 00:54:57,364:INFO:Jarvis: Goodbye Sandeep. Have a great day!
+2025-04-17 00:55:01,016:INFO:Exiting Jarvis.
